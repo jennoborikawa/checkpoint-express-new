@@ -7,7 +7,9 @@ module.exports = {
   reset: function () {
     tasks = {}; // (this function is completed for you.)
   },
+  
   // ==== COMPLETE THE FOLLOWING (SEE `model.js` TEST SPEC) =====
+  
   listPeople: function () {
     // returns an array of all people for whom tasks exist
     var nameArr = []; 
